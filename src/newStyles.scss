@@ -1,0 +1,24 @@
+.item-a {
+  grid-area: header;
+  background-color: green;
+  width: 100%;
+
+}
+.item-b {
+  grid-area: main;
+  background-color: blue;
+}
+.item-c {
+  grid-area: leftsidebar;
+  background-color: orange;
+  
+}
+.item-d {
+  grid-area: rightsidebar;
+  background-color:red;
+}
+.item-e {
+  grid-area: footer;
+  background-color: yellow;
+}
+

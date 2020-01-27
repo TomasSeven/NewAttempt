@@ -1,2 +1,0 @@
-# NewAttempt
-Created with CodeSandbox
